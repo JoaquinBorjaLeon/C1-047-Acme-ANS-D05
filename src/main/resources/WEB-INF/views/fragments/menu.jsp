@@ -31,7 +31,7 @@
         <acme:menu-separator/>
         <acme:menu-suboption code="master.menu.administrator.airline" action="/administrator/airline/list"/>
         <acme:menu-suboption code="master.menu.administrator.aircraft" action="/administrator/aircraft/list"/>
-        <acme:menu-suboption code="master.menu.administrator.list-airports" action="/administrator/airports/list"/>
+        <acme:menu-suboption code="master.menu.administrator.list-airport" action="/administrator/airport/list"/>
         <acme:menu-suboption code="master.menu.administrator.populate-db-initial" action="/administrator/system/populate-initial"/>
         <acme:menu-suboption code="master.menu.administrator.populate-db-sample" action="/administrator/system/populate-sample"/>			
         <acme:menu-separator/>
